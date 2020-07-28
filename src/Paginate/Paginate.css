@@ -1,0 +1,15 @@
+.buttons {
+  display:flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+.big, .small {
+  cursor: pointer;
+  width: 200px;
+  height: 100px;
+  justify-content: space-between;
+}
+
+.small {
+  margin-right: 20px;
+}
